@@ -17,7 +17,7 @@ class _ProductPageState extends State<ProductPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("E-Commerce App"),
+        title: const Text("E-Commerce App Basio"),
         centerTitle: true,
         backgroundColor: Colors.lightBlue,
       ),
